@@ -54,6 +54,7 @@ class Sermon_bible_passage_Public {
 		require_once plugin_dir_path( __FILE__ ) . '/partials/sermons-post-type.php';
 		require_once plugin_dir_path( __FILE__ ) . '/partials/generate-sermon-passage.php';
 		require_once plugin_dir_path( __FILE__ ) . '/partials/class-church-events.php';
+		require_once plugin_dir_path( __FILE__ ) . '/partials/class-manage-columns.php';
 
 
 	}
